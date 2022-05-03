@@ -1,5 +1,6 @@
 import static org.junit.Assert.*;
 import org.junit.*;
+
 public class NameTester {
     @Test
     public void naming() {
